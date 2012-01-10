@@ -1,5 +1,4 @@
 require "minitest/autorun"
-require "minitest/rails"
 
 # Uncomment if you want awesome colorful output
 # require "minitest/pride"
